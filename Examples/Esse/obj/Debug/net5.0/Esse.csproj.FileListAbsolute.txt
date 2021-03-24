@@ -1,0 +1,16 @@
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\obj\Debug\net5.0\Esse.csprojAssemblyReference.cache
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\obj\Debug\net5.0\Esse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\obj\Debug\net5.0\Esse.AssemblyInfoInputs.cache
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\obj\Debug\net5.0\Esse.AssemblyInfo.cs
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\obj\Debug\net5.0\Esse.csproj.CoreCompileInputs.cache
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\bin\Debug\net5.0\Esse.exe
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\bin\Debug\net5.0\Esse.deps.json
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\bin\Debug\net5.0\Esse.runtimeconfig.json
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\bin\Debug\net5.0\Esse.runtimeconfig.dev.json
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\bin\Debug\net5.0\Esse.dll
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\bin\Debug\net5.0\ref\Esse.dll
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\bin\Debug\net5.0\Esse.pdb
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\obj\Debug\net5.0\Esse.dll
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\obj\Debug\net5.0\ref\Esse.dll
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\obj\Debug\net5.0\Esse.pdb
+C:\Users\albar\Documents\ProgrammingWizards\Examples\Esse\obj\Debug\net5.0\Esse.genruntimeconfig.cache
