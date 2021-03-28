@@ -25,28 +25,5 @@ namespace Esse {
             }
         }
 
-        /*public enum Kingdom {
-            Protista,
-            Fungi,
-            Plantae,
-            Animalia
-        };
-
-        public enum Phylum {
-
-        };
-
-        public enum Order {
-
-        };
-
-        public enum Family {
-
-        };
-
-        public enum Genus {
-
-        };*/
-
     }
 }
